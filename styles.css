@@ -1,0 +1,35 @@
+body{
+  background-color: #F3F1F5;
+}
+.cointainer{
+
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+
+}
+.diceCointainer{
+  text-align: center;
+  display: inline-block;
+  /* padding-right: 40px; */
+  /* padding-left: 40px; */
+  padding-bottom: 40px;
+}
+h1{
+  font-size: 5rem;
+  color: #99A799;
+  font-style: italic;
+
+}
+h4{
+  font-size: 2rem;
+  color: #E2C2B9;
+}
+.image1{
+  width: 50%;
+
+}
+.image2{
+  width: 50%;
+
+}
